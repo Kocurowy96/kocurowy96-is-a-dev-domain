@@ -3,6 +3,10 @@
         "username": "kocurowy96"
     },
     "record": {
-        "CNAME": "kocurowy96.is-a.dev.cdn.cloudflare.net"
+        "NS": [
+            "eoin.ns.cloudflare.com",
+            "jacqueline.ns.cloudflare.com"
+        ]
     }
 }
+
